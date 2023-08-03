@@ -42,6 +42,4 @@ Route::post('/send-web-notification', [WebNotificationController::class, 'sendWe
 
 //fsfdsfd
 
-//jhbjh
-//kjnkjn
 //knkkjn
