@@ -38,13 +38,3 @@ Route::match(['get', 'post'], '/botman-chat', [BotManChatController::class,'invo
 Route::get('/push-notificaiton', [WebNotificationController::class, 'index'])->name('push-notificaiton');
 Route::post('/store-token', [WebNotificationController::class, 'storeToken'])->name('store.token');
 Route::post('/send-web-notification', [WebNotificationController::class, 'sendWebNotification'])->name('send.web-notification');
-
-
-//fsfdsfd
-
-<<<<<<< HEAD
-=======
-//jhbjh
-//kjnkjn
->>>>>>> b90b37aa32ad60049ebe40eb19d1c34abcbf71e6
-//knkkjn
