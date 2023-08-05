@@ -26,3 +26,10 @@ Route::post('/deleteCountry',[CountryController::class,'deleteCountry'])->name('
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
+
+
+
+//adscasa
+//asasdacdasd
+//dsaddada
+//asdsasd
